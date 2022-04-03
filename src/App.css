@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap");
+
+.title {
+  font-family: "Dancing Script" !important;
+  color: #654321;
+  font-weight: bold !important;
+  font-size: 80px !important;
+  border: black !important;
+  border-width: 2px !important;
+}
+
+.signup-background {
+  background: repeating-linear-gradient(
+    #ff47f6,
+    #e9967a 49.9%,
+    #f08080 50.1%,
+    #e4717a 100%
+  );
+}
+
+.signupbox {
+  -webkit-box-shadow: 10px 10px 5px 0px rgb(219, 161, 161);
+  -moz-box-shadow: 10px 10px 5px 0px rgb(216, 123, 196);
+  box-shadow: 0 0 5px 0px rgba(0, 0, 0, 1);
+  background-color: rgb(201, 175, 235);
+}
+
+.titleSignIn {
+  font-family: "Dancing Script" !important;
+  color: #654321;
+  font-weight: bold !important;
+  font-size: 80px !important;
+  border: black !important;
+  border-width: 2px !important;
+  margin-left: 100px !important;
+}
+
+table {
+  width: 700;
+  height: 700;
+  border: 1px solid black;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+  border: 1px solid black;
+}
+
+tr {
+  border: 1px solid black;
+}
